@@ -49,8 +49,8 @@
 
 ###
 
-<div align="center">
+
   ![snake gif](https://github.com/ryanmillergm/ryanmillergm/blob/output/github-snake.svg)
-</div>
+
 
 ###
